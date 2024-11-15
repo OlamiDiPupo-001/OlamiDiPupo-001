@@ -15,7 +15,7 @@ In addition to my academic pursuits, I'm always seeking out new challenges and l
 
 I work with a variety of tools and technologies to bring my projects to life. Here’s a snapshot of what I’ve been using lately:
 
-### **Languages & Frameworks**:
+### 📚 **Languages & Frameworks**:
 - **Python** 🐍 
 - **C/C++** 🖥️ 
 - **Data Analysis** 📊
