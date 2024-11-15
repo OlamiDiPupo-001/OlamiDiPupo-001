@@ -27,18 +27,12 @@ I work with a variety of tools and technologies to bring my projects to life. He
 - **Robot Studio** 🤖🎮
 - **STM32CubeIDE** 🧩💡
 
-## 📊 GitHub Streak
+## 🌐 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OlamiDiPupo-001&theme=radical)
 
-## 🌐 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlamiDiPupo-001&layout=compact&theme=radical)
-
-
-## 🏆 GitHub Trophy
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=OlamiDiPupo-001&theme=radical)
 
 
 Here’s a collection of the tools and technologies I use regularly:
