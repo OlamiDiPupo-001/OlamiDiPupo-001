@@ -25,7 +25,9 @@ I work with a variety of tools and technologies to bring my projects to life. He
 
 ### 🔧**Tools**:
 - **Robot Studio** 🤖🎮
-- **STM32CubeIDE** 🧩💡
+- **STM32CubeIDE** ⚙️💡
+- **KiCad** 🔧💻
+
 
 ## 🌐 GitHub Streak
 
