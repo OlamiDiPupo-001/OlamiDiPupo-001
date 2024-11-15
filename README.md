@@ -59,16 +59,16 @@ Here’s a collection of the tools and technologies I use regularly:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/STM32CubeIDE_logo.png" alt="STM32CubeIDE" width="40" height="40"/>
+    <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" alt="STM32CubeIDE" width="40" height="40"/>
   </a>
   <a href="https://www.robotstudio.com" target="_blank" rel="noreferrer">
     <img src="https://icons-for-free.com/iff/png/256/abbrobotstudio-1324440112919970928.png" alt="Robot Studio" width="40" height="40"/>
   </a>
   <a href="https://www.kicad.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/2560px-KiCad-Logo.svg.png" alt="KiCad" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/2560px-KiCad-Logo.svg.png" alt="KiCad" width="60" height="40"/>
   </a>
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arduino_Logo.svg/220px-Arduino_Logo.svg.png" alt="Arduino" width="40" height="40"/>
+    <img src="https://freesvg.org/img/1666364456Esp32_devkitc_v4.png" alt="Arduino" width="40" height="40"/>
   </a>
 </p>
 
