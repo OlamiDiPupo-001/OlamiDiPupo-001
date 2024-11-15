@@ -7,6 +7,8 @@ I'm passionate about:
 - Designing intelligent system and solving complex problems through technology.
 - **software engineering**.
 - Working on **robot navigation**, **robot arms**, and **IoT projects**.
+
+
 In addition to my academic pursuits, I'm always seeking out new challenges and learning opportunities, whether that's through hands-on projects, online courses, or participating in open-source contributions.
 
 ## 🛠 Skills & Technologies
@@ -15,17 +17,19 @@ I work with a variety of tools and technologies to bring my projects to life. He
 
 ### **Languages & Frameworks**:
 - **Python** 🐍 
-- **C/C++** 🗃️ 
+- **C/C++** 🖥️ 
 - **Data Analysis** 📊
-- **Matlab**
-- **JavaScript/HTML/CSS** 💻 
-- **Machine Learning**
+- **Matlab** 🔢
+- **JavaScript/HTML/CSS** 🌐 
+- **Machine Learning** 🧠
 
 ### 🔧**Tools**:
 - **Robot Studio** 🤖
 - **STM32CubeIDE**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlamiDiPupo-001&show_icons=true&theme=radical)
+
+
 Here’s a collection of the tools and technologies I use regularly:
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
