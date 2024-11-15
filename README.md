@@ -27,10 +27,6 @@ I work with a variety of tools and technologies to bring my projects to life. He
 - **Robot Studio** 🤖🎮
 - **STM32CubeIDE** 🧩💡
 
-## 💻 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlamiDiPupo-001&show_icons=true&theme=radical)
-
 ## 📊 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OlamiDiPupo-001&theme=radical)
@@ -39,31 +35,10 @@ I work with a variety of tools and technologies to bring my projects to life. He
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlamiDiPupo-001&layout=compact&theme=radical)
 
-## 📈 Commit Frequency
-
-![Commit Frequency](https://github-readme-activity-graph.cyclic.app/graph?username=OlamiDiPupo-001&theme=github&hide_title=true&hide_border=true)
 
 ## 🏆 GitHub Trophy
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=OlamiDiPupo-001&theme=radical)
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=OlamiDiPupo-001)
-
-## 🔄 Pull Requests
-
-![PR Status](https://img.shields.io/github/issues-pr/OlamiDiPupo-001?style=flat&label=open%20pr&color=green)
-![PR Status](https://img.shields.io/github/issues-pr-closed/OlamiDiPupo-001?style=flat&label=closed%20pr&color=red)
-
-## 🌟 Repository Stars
-
-![Repo Stars](https://img.shields.io/github/stars/OlamiDiPupo-001/your-repo-name?style=flat&color=yellow)
-
-## 🔧 Code Quality
-
-![Build Status](https://img.shields.io/travis/com/OlamiDiPupo-001/your-repo-name?style=flat&color=green)
-![Test Coverage](https://img.shields.io/codecov/c/github/OlamiDiPupo-001/your-repo-name?style=flat&color=blue)
 
 
 Here’s a collection of the tools and technologies I use regularly:
