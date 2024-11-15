@@ -62,7 +62,7 @@ Here’s a collection of the tools and technologies I use regularly:
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/STM32CubeIDE_logo.png" alt="STM32CubeIDE" width="40" height="40"/>
   </a>
   <a href="https://www.robotstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/RobotStudio_Logo.svg" alt="Robot Studio" width="40" height="40"/>
+    <img src="https://www.svgviewer.dev/svg-to-png" alt="Robot Studio" width="40" height="40"/>
   </a>
   <a href="https://www.kicad.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/KiCad_logo.svg" alt="KiCad" width="40" height="40"/>
