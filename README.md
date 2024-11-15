@@ -59,7 +59,7 @@ Here’s a collection of the tools and technologies I use regularly:
     <img src="https://icons-for-free.com/iff/png/256/abbrobotstudio-1324440112919970928.png" alt="Robot Studio" width="40" height="40"/>
   </a>
   <a href="https://www.kicad.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/2560px-KiCad-Logo.svg.png" alt="KiCad" width="60" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/2560px-KiCad-Logo.svg.png" alt="KiCad" width="80" height="40"/>
   </a>
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
     <img src="https://freesvg.org/img/1666364456Esp32_devkitc_v4.png" alt="Arduino" width="40" height="40"/>
