@@ -43,25 +43,35 @@ I work with a variety of tools and technologies to bring my projects to life. He
 
 Here’s a collection of the tools and technologies I use regularly:
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="TensorFlow" width="40" height="40"/>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/STM32CubeIDE_logo.png" alt="STM32CubeIDE" width="40" height="40"/>
+  </a>
+  <a href="https://www.robotstudio.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/RobotStudio_Logo.svg" alt="Robot Studio" width="40" height="40"/>
+  </a>
+  <a href="https://www.kicad.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/KiCad_logo.svg" alt="KiCad" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arduino_Logo.svg/220px-Arduino_Logo.svg.png" alt="Arduino" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  </a>
 </p>
+
 
 
 ## 🚧 Featured Projects
